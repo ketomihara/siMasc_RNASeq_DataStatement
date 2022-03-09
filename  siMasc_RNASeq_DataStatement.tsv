@@ -1,0 +1,5 @@
+sample_name	sample_title	description	organism	taxonomy_id	strain	collection_date	dev_stage	sex	temp	time	tissue	treatment
+siGFP_F1_Female	Bombyx mori siGFP-injected F1 female embryos	Transcriptome of control F1 female embryos	Bombyx mori	7091	F1 hybrid (N4 × p50T)	2016/2/29	Embryo	female	25 degrees C	72 hours post-injection	Whole bodies	GFP siRNA-injected
+siGFP_F1_Male	Bombyx mori siGFP-injected F1 male embryos	Transcriptome of control F1 male embryos	Bombyx mori	7091	F1 hybrid (N4 × p50T)	2016/2/29	Embryo	male	25 degrees C	72 hours post-injection	Whole bodies	GFP siRNA-injected
+siMasc_F1_Female	Bombyx mori siMasc-injected F1 female embryos	Transcriptome of Masc knocked-down F1 female embryos	Bombyx mori	7091	F1 hybrid (N4 × p50T)	2016/2/29	Embryo	female	25 degrees C	72 hours post-injection	Whole bodies	Masc siRNA-injected
+siMasc_F1_Male	Bombyx mori siMasc-injected F1 male embryos	Transcriptome of Masc knocked-down F1 male embryos	Bombyx mori	7091	F1 hybrid (N4 × p50T)	2016/2/29	Embryo	male	25 degrees C	72 hours post-injection	Whole bodies	Masc siRNA-injected
